@@ -1,4 +1,4 @@
-# Random-Password-Generatot
+# Random-Password-Generator
 
 Description:
 The Random Password Generator is a Python-based application that allows users to create secure, random passwords to enhance online safety and data protection. This tool is especially useful for generating complex passwords that are difficult to guess or crack, helping users follow best practices for cybersecurity.
